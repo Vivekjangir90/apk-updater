@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "sources": {
+    "vega": {
+      "name": "Vega Movies",
+      "baseUrl": "https://vegamovies.gallery/"
+    },
+    "rock": {
+      "name": "Rock Movies",
+      "baseUrl": "https://rogmovies.best/"
+    }
+  }
+}
